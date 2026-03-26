@@ -27,7 +27,7 @@ I build scalable backend systems, decentralized applications, and AI-powered too
 
 * Languages: JavaScript, TypeScript, Python, C++
 * Backend: Node.js, Express, FastAPI
-* Blockchain: Stellar, Web3.js
+* Blockchain: Stellar,  Sui, Solidity, Move, Web3.js
 * Databases: MongoDB, PostgreSQL
 * Tools: Git, Docker, Linux
 
