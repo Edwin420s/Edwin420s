@@ -8,7 +8,7 @@ I build scalable backend systems, decentralized applications, and AI-powered too
 
 ##  What I’m Focused On
 
-* ⚡ Blockchain Development (Stellar, Web3, Smart Contracts)
+* ⚡ Blockchain Development (Web3, Smart Contracts)
 * 🔧 Backend Systems & APIs (Node.js, FastAPI)
 * 🤖 AI Applications (automation, intelligent tools)
 * 🌍 Building real-world solutions for Africa
