@@ -19,7 +19,7 @@ I enjoy designing backend systems, creating modern web applications, exploring d
 
 ##  Featured Projects
 
-### 🏥 AfyaVault
+###  AfyaVault
 
 A decentralized health records platform that combines secure backend architecture with blockchain and IPFS to enable private, tamper-resistant medical record management.
 
