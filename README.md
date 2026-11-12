@@ -39,11 +39,11 @@ With a background in Electronics and Computer Engineering, I enjoy working acros
 
 ### Engineering Focus
 
-- **Backend Reliability:** Transaction integrity, API resilience, authentication, caching, and fault handling.
-- **Intelligent Automation:** Autonomous agent workflows, retrieval-augmented generation (RAG), and tool orchestration.
-- **Financial Infrastructure:** Digital payments, ledgers, and decentralized finance protocols.
-- **Connected Systems:** IoT telemetry pipelines, edge processing, and hardware-device integration.
-- **Security & Data:** Application security, threat awareness, data modeling, and analytics.
+- **Backend & Distributed Systems:** API architecture, database design, authentication, caching, and system reliability.
+- **AI & Intelligent Systems:** AI-powered applications, agentic workflows, RAG pipelines, and intelligent automation.
+- **Data Engineering & Analytics:** Data processing, analytical workflows, data modeling, and extracting insights from complex datasets.
+- **Web3 & Financial Infrastructure:** Smart contracts, decentralized applications, digital payments, and blockchain infrastructure.
+- **Cybersecurity & Connected Systems:** Application security, secure system design, IoT telemetry, edge computing, and hardware integration.
 
 ---
 
@@ -73,11 +73,17 @@ With a background in Electronics and Computer Engineering, I enjoy working acros
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
 
-#### AI & Data
+#### AI, Machine Learning & Data Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-607D8B?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-00897B?style=flat-square)
 
 #### Web3 & Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
